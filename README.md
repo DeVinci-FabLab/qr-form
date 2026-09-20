@@ -2,7 +2,7 @@
 
 ## Overview
 
-> Add a short description of the project here.
+> Add a short description of the project here
 
 Add important information about the project here
 
